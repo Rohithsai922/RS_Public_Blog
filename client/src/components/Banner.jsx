@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import BannerImage1 from '../assets/images/lifequote.jpg'
-import BannerImage2 from '../assets/images/lifecircle.png'
+import BannerImage2 from '../assets/images/svnit.jpeg'
 import BannerImage3 from '../assets/images/Website-feeling-alive-orlivinglife.png'
 
 export default function Banner() {

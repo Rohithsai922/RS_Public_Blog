@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import BannerImage1 from '../assets/images/lifequote.jpg'
 import BannerImage2 from '../assets/images/svnit.jpeg'
-import BannerImage3 from '../assets/images/Website-feeling-alive-orlivinglife.png'
+import BannerImage3 from '../assets/images/banner.jpg'
 
 export default function Banner() {
   var settings = {
